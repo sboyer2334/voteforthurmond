@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     border-bottom: 1px solid #cccccc;
     min-height: 230px;
 	color: #333333;
-	background-color: #8996a0;
+	background-color: #B8B8B8;
     font-family:  'Open Sans', sans-serif;
     font-size:20px;
     margin-top:100px;
@@ -572,7 +572,7 @@ ul.templatemo-project-gallery  li  a img:hover {
 }
 
 .templatemo-tweets {
-    background-color: #8996a0;
+    background-color: #B8B8B8;
     min-height:200px;
     font-family:  'Open Sans', sans-serif;
     font-size:20px;
