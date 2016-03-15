@@ -124,6 +124,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     border-bottom: 1px solid #cccccc;
     min-height: 230px;
 	color: #333333;
+	background-color: #8996a0;
+    font-family:  'Open Sans', sans-serif;
+    font-size:20px;
+    margin-top:100px;
 }
 
 .templatemo-slogan {
